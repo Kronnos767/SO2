@@ -1,0 +1,9 @@
+Inteiros lidos: 200000
+Soma total: 9884192
+P | Tempo(s) | Speedup
+----------------------------
+1 | 0.008049 |   1.000
+2 | 0.008547 |   0.942
+4 | 0.007136 |   1.128
+8 | 0.007059 |   1.140
+Histograma validado para todas as execuções.

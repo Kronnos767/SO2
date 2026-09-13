@@ -1,0 +1,11 @@
+Modo: COM TRAVAS
+Soma inicial: 100000
+Soma final:   100000
+Diferença:    0
+ASSERT OK: soma global permaneceu constante.
+
+Modo: SEM TRAVAS
+Soma inicial: 100000
+Soma final:   113529
+Diferença:    13529
+Condição de corrida evidenciada.

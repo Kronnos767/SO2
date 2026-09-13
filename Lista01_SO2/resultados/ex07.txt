@@ -1,0 +1,18 @@
+
+Solução: ordem global
+Filósofo | Refeições | Maior espera(ms)
+       0 |       435 |          13.943
+       1 |       453 |           3.014
+       2 |       469 |           3.390
+       3 |       484 |           2.285
+       4 |       439 |           4.363
+Validação: todos os filósofos fizeram ao menos uma refeição.
+
+Solução: semáforo(4) + backoff
+Filósofo | Refeições | Maior espera(ms)
+       0 |       476 |           4.511
+       1 |       475 |           3.811
+       2 |       473 |           4.745
+       3 |       469 |           4.438
+       4 |       473 |           9.080
+Validação: todos os filósofos fizeram ao menos uma refeição.

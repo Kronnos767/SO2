@@ -1,0 +1,12 @@
+=== Versão propositalmente sujeita a deadlock ===
+[WATCHDOG] Ausência de progresso detectada.
+  T1: possui A; aguardará B
+  T2: possui B; aguardará A
+  Recurso A: possuído por T1
+  Recurso B: possuído por T2
+  Suspeita: espera circular entre recursos A e B.
+Watchdog detectou problema: SIM
+
+=== Versão corrigida ===
+Versão corrigida: 200 regiões críticas concluídas em 0.002916s.
+Sem deadlock: todos os locks foram adquiridos na ordem total 0 -> 1.

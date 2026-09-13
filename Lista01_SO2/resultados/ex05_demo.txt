@@ -1,0 +1,12 @@
+2: primo
+17: primo
+18: não primo
+97: primo
+1009: primo
+1024: não primo
+7919: primo
+99991: primo
+99999: não primo
+104729: primo
+Tarefas concluídas: 10/10
+Validação OK: nenhuma tarefa foi perdida.

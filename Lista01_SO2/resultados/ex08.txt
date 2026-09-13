@@ -1,0 +1,17 @@
+Itens produzidos/consumidos: 240
+Capacidade: 20; marca de backpressure: 16
+Ocupação máxima observada: 16
+Ocupação média: 14.74
+Aguardas por backpressure: 283
+Amostras (tempo_s, ocupação):
+  0.0005, 1
+  0.0309, 15
+  0.0766, 15
+  0.1221, 15
+  0.1675, 15
+  0.2132, 15
+  0.2587, 15
+  0.3041, 15
+  0.3501, 15
+  0.3961, 15
+Validação OK: sem perda de itens e produtores foram bloqueados quando necessário.

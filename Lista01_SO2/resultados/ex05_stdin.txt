@@ -1,0 +1,5 @@
+13: primo
+20: não primo
+29: primo
+Tarefas concluídas: 3/3
+Validação OK: nenhuma tarefa foi perdida.

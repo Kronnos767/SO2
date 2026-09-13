@@ -1,0 +1,16 @@
+=== CORRIDA DE CAVALOS ===
+Aposta: Cavalo 1
+Todos preparados. Largada sincronizada!
+Rodada 01: C1: 15 | C2:  5 | C3: 11 | C4:  9
+Rodada 02: C1: 21 | C2: 14 | C3: 24 | C4: 20
+Rodada 03: C1: 26 | C2: 21 | C3: 37 | C4: 32
+Rodada 04: C1: 35 | C2: 33 | C3: 43 | C4: 41
+Rodada 05: C1: 43 | C2: 43 | C3: 50 | C4: 47
+Rodada 06: C1: 51 | C2: 58 | C3: 61 | C4: 56
+Rodada 07: C1: 58 | C2: 64 | C3: 69 | C4: 66
+Rodada 08: C1: 64 | C2: 76 | C3: 78 | C4: 71
+Rodada 09: C1: 79 | C2: 90 | C3: 83 | C4: 77
+Rodada 10: C1: 92 | C2:100 | C3: 91 | C4: 89
+
+Vencedor: Cavalo 2 (rodada 10)
+Aposta incorreta.
